@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/shubhansh1607/Desktop/Scientific_Calculator/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="/home/shubhansh1607/Desktop/Scientific_Calculator/build/app"
+    bootClassPath="/home/shubhansh1607/Android/Sdk/platforms/android-31/android.jar:/home/shubhansh1607/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
